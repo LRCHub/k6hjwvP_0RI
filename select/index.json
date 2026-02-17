@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "MUSE",
+  "base_artist": "ME:I",
+  "createdAt": "2026-02-17T19:14:44.632943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sick Muse",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/01_Sick_Muse_Metric.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Annie (Oh muse, you)",
+      "artist": "Austra",
+      "has_synced": true,
+      "path": "select/02_Annie_(Oh_muse,_you)_Austra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Muse",
+      "artist": "dvsn",
+      "has_synced": true,
+      "path": "select/03_A_Muse_dvsn.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Muse Breaks RMX",
+      "artist": "Infected Mushroom",
+      "has_synced": false,
+      "path": "select/04_Muse_Breaks_RMX_Infected_Mushroom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Muse",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/05_Black_Muse_Prince.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blind Muse",
+      "artist": "Diabulus In Musica",
+      "has_synced": false,
+      "path": "select/06_Blind_Muse_Diabulus_In_Musica.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Muse",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/07_Muse_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Muse 2 the Pharaoh",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/08_Muse_2_the_Pharaoh_Prince.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Through the Eyes of the Killer - Revival of the Muse That is Violence",
+      "artist": "Manticora",
+      "has_synced": true,
+      "path": "select/09_Through_the_Eyes_of_the_Killer_-_Revival_of_the_Muse_That_is_Violence_Manticora.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back In Your Head (Dangerous Muse Remix)",
+      "artist": "Tegan and Sara",
+      "has_synced": false,
+      "path": "select/10_Back_In_Your_Head_(Dangerous_Muse_Remix)_Tegan_and_Sara.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "02 - Muse - Do We Need This-",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/11_02_-_Muse_-_Do_We_Need_This-_Muse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "03 - Muse - Falling Down (Live Acoustic)",
+      "artist": "Muse",
+      "has_synced": false,
+      "path": "select/12_03_-_Muse_-_Falling_Down_(Live_Acoustic)_Muse.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baker St Muse (Medley)",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/13_Baker_St_Muse_(Medley)_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baker St. Muse",
+      "artist": "Jethro Tull",
+      "has_synced": true,
+      "path": "select/14_Baker_St._Muse_Jethro_Tull.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Immortal Muse",
+      "artist": "Autumn's Grey Solace",
+      "has_synced": false,
+      "path": "select/15_Immortal_Muse_Autumn's_Grey_Solace.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Poet and the Muse",
+      "artist": "Old Gods of Asgard",
+      "has_synced": true,
+      "path": "select/16_The_Poet_and_the_Muse_Old_Gods_of_Asgard.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Be Your Own Muse",
+      "artist": "Haley Blais",
+      "has_synced": false,
+      "path": "select/17_Be_Your_Own_Muse_Haley_Blais.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Modern Muse",
+      "artist": "Dead to Me",
+      "has_synced": true,
+      "path": "select/18_Modern_Muse_Dead_to_Me.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MUSE",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/pl_01_MUSE_ME_I.txt"
+    }
+  ]
+}
